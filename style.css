@@ -1,0 +1,21 @@
+.form__distribution { margin-bottom: 16px; margin-top: 16px; display: flex; align-items: center; justify-content: space-evenly; }
+
+.card__style { display: none; flex-direction: column; }
+
+#taskCard { background-color: #D9D9D9; color: black; }
+
+.background--teal { background-color: #3C6E71; border-radius: 15px; padding-top: 16px; padding-bottom: 16px; color: whitesmoke; }
+
+.input__distribution { margin-bottom: 16px; display: flex; align-items: baseline; justify-content: space-evenly; }
+
+.category--distribution { display: flex; justify-content: center; align-items: baseline; }
+
+.btn__task__add, .btn__task__delete { background-color: transparent; border-color: transparent; }
+
+.btn__task__add i { color: #D9D9D9; }
+
+.btn__task__delete i { color: #284B63; }
+
+button {
+    outline-style: none;
+}
